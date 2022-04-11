@@ -1,0 +1,6 @@
+Credentials cache: API:C05AF7C2-8982-4C38-947B-E17079CCE4CC
+        Principal: sumijang@42SEOUL.KR
+
+  Issued                Expires               Principal
+Apr 11 12:30:07 2022  Apr 11 22:30:07 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
+Apr 11 12:30:08 2022  Apr 11 22:30:07 2022  HTTP/student-storage.42seoul.kr@42SEOUL.KR
