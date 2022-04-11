@@ -1,2 +1,2 @@
 # 42seoul
-** Day00 : Shell00
+** Day00 : Shell00 **
