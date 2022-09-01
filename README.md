@@ -1,3 +1,3 @@
 # 42seoul
-** Day00 : Shell00 **
-*** Day01 : Shell01 ***
+
+- Uploading C codes in 42seoul La piscine 
